@@ -1,0 +1,20 @@
+{
+  "name": "streamadvent",
+  "version": "1.0.0",
+  "description": "Solutions for stream-adventure",
+  "dependencies": {
+    "through": "^2.3.6",
+    "split": "^0.3.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https:/github/alminin/streamadvent"
+  },
+  "author": "Alexandr Minin <olexandr.minin@gmail.com>",
+  "license": "MIT",
+  "private": true
+}

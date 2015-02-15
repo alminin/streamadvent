@@ -3,8 +3,9 @@
   "version": "1.0.0",
   "description": "Solutions for stream-adventure",
   "dependencies": {
-    "through": "^2.3.6",
-    "split": "^0.3.3"
+    "concat-stream": "^1.4.7",
+    "split": "^0.3.3",
+    "through": "^2.3.6"
   },
   "devDependencies": {},
   "scripts": {
